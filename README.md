@@ -1,5 +1,5 @@
 - 💜 Hello, I’m @TinkerThinker2517!
 - 👀 I’m interested in Coding and Engineering!
-- 👻 I’m currently learning C++, Java, and Python!
+- 👻 I’m currently learning C++, Java, Circut Python, and Python!
 - 🌌 I’m looking to collaborate on nothing as of now.
-- ⚡ Fun fact: I am a Type One Diabetic! I also play VR games!
+- ⚡ Fun fact: I model things! I also play VR games!
